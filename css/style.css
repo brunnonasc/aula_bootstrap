@@ -1,0 +1,28 @@
+.navbar {
+    background-color: #5AA88E;
+}
+
+.stats {
+    background-color: lightgray;
+    
+}
+
+.margin {
+    padding-top: 18px;
+    padding-bottom: 5px;
+}
+
+.img {
+    border: 2px solid yellow;
+}
+
+.h1{
+    font-family: "Chernobyl";
+    color: darkblue;
+    
+  }
+
+.nav-item {
+    font-family: "Impact";
+    font-size: 18px;
+}
