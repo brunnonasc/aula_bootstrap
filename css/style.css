@@ -1,28 +1,44 @@
 .navbar {
-    background-color: #5AA88E;
+    background-color: #DCDACC;
+    
 }
 
+
 .stats {
-    background-color: lightgray;
+    background-color: black;
     
 }
 
 .margin {
-    padding-top: 18px;
+    padding-top: 12px;
     padding-bottom: 5px;
 }
 
 .img {
-    border: 2px solid yellow;
+    
 }
 
 .h1{
     font-family: "Chernobyl";
-    color: darkblue;
-    
+    color:  white;
+    font-size: 50px ;
+     
   }
 
 .nav-item {
     font-family: "Impact";
-    font-size: 18px;
+    font-size: 20px;
+    font-style: italic;
+    
+}
+
+.FT {
+    background-color: darkgray;
+    
+}
+.h3 {
+    font-family: "Impact" ;
+    font-size: 35px ;
+    color: black;
+    font-style: italic;
 }
